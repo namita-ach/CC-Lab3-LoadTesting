@@ -1,2 +1,2 @@
-# CCLab2-LoadTesting
+# CCLab3-LoadTesting
 Load testing with Locust
